@@ -1,0 +1,20 @@
+
+
+# ignore local filees
+.vscode/
+planets.sln
+*.sublime-workspace
+
+# ignore unity files generated files
+Temp/
+Logs/
+Library/
+Packages/
+ProjectSettings/
+*.meta
+
+# not required
+*.csproj
+
+
+

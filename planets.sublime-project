@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"name": "Assets",
+			"path": "Assets",
+			"file_exclude_patterns": ["*.meta"]
+		}
+	]
+}
